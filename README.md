@@ -1,8 +1,8 @@
 ### Hi, I'm Ann! 👋
 
-I'm a novice web developer, hightly motivated 💪 to learn various impressive new techniques  and features to grow as a professional programmer.  
+I'm a novice web developer, highly motivated 💪 to learn various impressive new techniques  and features to grow as a professional programmer.  
   
-Currently I'm mastering a front-end development, but will become a full-stack developer in future.
+Currently, I'm mastering a front-end development, but will become a full-stack developer in the future.
 
 
 #### ⚠️ I'm intensively looking for a good place to work and grow and opened for any job proposals! 
@@ -23,7 +23,7 @@ Currently I'm mastering a front-end development, but will become a full-stack de
   - React
   - Bootstrap
 
-⚡*I have so much to learn and I'm very exited to do so! Please consider lack in my knowledge as an apportunity to shape my skills the way you need them to be for your projects.*
+⚡*I have so much to learn, and I'm very excited to do so! Please consider lack in my knowledge as an opportunity to shape my skills the way you need them to be for your projects.*
  
 - 🚀 my [custom webpack5 build](https://github.com/ann-arzamm/webpack-5-frontend) I use in my projects
 - 🏠 work remotely from Russia
