@@ -28,3 +28,5 @@ Currently, I'm mastering a front-end development, but will become a full-stack d
 --- 
 - 🚀 My [custom webpack5 build](https://github.com/ann-arzamm/webpack-5-frontend) I use in my projects
 - 🏠 I work remotely from Russia
+
+Thank you for your interest in my page! If you have any questions or proposals feel free to write me an email <ann.arzamm@gmail.com> or a message in [telegram](https://t.me/foifoi).
