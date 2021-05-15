@@ -13,6 +13,7 @@ Currently, I'm mastering a front-end development, but will become a full-stack d
 🔗 I have a good knowledge of
   - HTML5 + CSS3
     - Sass / Scss
+    - Bootstrap
   - JavaScript 
     - ES6+ features
   - Webpack 5
@@ -22,7 +23,6 @@ Currently, I'm mastering a front-end development, but will become a full-stack d
   
 🛠 I'm learning now
   - React
-  - Bootstrap
 
 ⚡*I have so much to learn, and I'm very excited to do so! Please consider lack in my knowledge as an opportunity to shape my skills the way you need them to be for your projects.*
 
