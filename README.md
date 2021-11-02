@@ -5,10 +5,6 @@ I'm a novice web developer, highly motivated 💪 to learn various impressive ne
   
 Currently, I'm mastering a front-end development, but will become a full-stack developer in the future.
 
-
-#### ⚠️ I'm intensively looking for a good place to work and grow and opened for any job proposals! 
-  
-
 ## Brief intro:
 🔗 I have a good knowledge of
   - HTML5 + CSS3
