@@ -1,5 +1,5 @@
 ### Hi, I'm Ann! 👋
-[LinkedIn](https://www.linkedin.com/in/ann-arzamm/) | [Resume](https://www.notion.so/Resume-970ce181bddf4334a47797c9b4869ed4) | <ann.arzamm@gmail.com> | [Telegram](https://t.me/foifoi)
+[LinkedIn](https://www.linkedin.com/in/ann-arzamm/) | <ann.arzamm@gmail.com> | [Telegram](https://t.me/foifoi)
 
 I'm a novice web developer, highly motivated 💪 to learn various impressive new techniques  and features to grow as a professional programmer.  
   
